@@ -36,7 +36,7 @@ ls | grep backup
 pwd
 ```
 
-![ilustrasi](https://github.com/imammularif/backup-restore-postgreSQL/blob/main/Chapture/1.png)
+![ilustrasi](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/backup-restore-postgreSQL/Chapture/1.png)
 
 ## RESTORE
 
