@@ -76,7 +76,7 @@ sudo ss -plnt | grep postgres
 
 
 
-Untuk koneksi ke dbeaver, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/Cara-Install-Dbeaver-di-Ubuntu)
+Untuk koneksi ke dbeaver, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
 
 
 
