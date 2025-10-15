@@ -22,7 +22,7 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 
 *⚡ Keep calm and query on! Jangan lupa backup database sebelum nge-experiment.*
 
-*🚀 Versi dokumentasi: 1.0 | Last update: Oktober 2025.*
+*🚀 Versi dokumentasi: 1.0 | Last update: Oktober 2025.* ✨
 
 
 
