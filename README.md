@@ -16,4 +16,13 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 
 [Instalasi DBeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu) : Panduan untuk menginstal DBeaver sebagai GUI PostgreSQL.
 
+---
+
+*💡 FYI: Semua langkah di sini dicoba di Ubuntu 22.04 LTS & PostgreSQL 16. Bisa jalan di versi lain, tapi cek dulu kompatibilitasnya.*
+
+*⚡ Keep calm and query on! Jangan lupa backup database sebelum nge-experiment.*
+
+*🚀 Versi dokumentasi: 1.0 | Last update: Oktober 2025.*
+
+
 
