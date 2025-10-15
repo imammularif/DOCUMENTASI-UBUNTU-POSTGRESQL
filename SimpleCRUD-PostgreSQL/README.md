@@ -17,7 +17,7 @@ atau
 ```bash 
 \list
 ```
- ![Show db](https://github.com/imammularif/SimpleCRUD-PostgreSQL/blob/main/Chapture/db.png)
+ ![Show db](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/db.png)
 
 4. selanjutnya, buat tabel. saya disini hanya membuat 2 table saja.
 
@@ -45,7 +45,7 @@ cek table yang sudah buat :
 ```bash
 \dt
 ```
- ![show table](https://github.com/imammularif/SimpleCRUD-PostgreSQL/blob/main/Chapture/table.png)
+ ![show table](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/table.png)
  
 5. setelah buat table, lakukan insert
 
@@ -78,7 +78,7 @@ select * from orders;
 ```bash
 select * from customers inner join orders on customers.id = orders.id;
 ```
- ![join](https://github.com/imammularif/SimpleCRUD-PostgreSQL/blob/main/Chapture/inner.png)
+ ![join](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/inner.png)
 
  - insert 1 data pada table customers
 
@@ -93,10 +93,10 @@ select * from customers inner join orders on customers.id = orders.id;
  ```
 --sebelum
 
- ![sebelum](https://github.com/imammularif/SimpleCRUD-PostgreSQL/blob/main/Chapture/update%201.png)
+ ![sebelum](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/update%201.png)
 
  --sesudah
- ![sesudah](https://github.com/imammularif/SimpleCRUD-PostgreSQL/blob/main/Chapture/update%202.png)
+ ![sesudah](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/update%202.png)
    
 - Delete 1 data pada table customers yang nama customersnya Alice.
 
@@ -105,8 +105,8 @@ select * from customers inner join orders on customers.id = orders.id;
  ```
 --sebelum
 
-![sebelum](https://github.com/imammularif/SimpleCRUD-PostgreSQL/blob/main/Chapture/del%201.png)
+![sebelum](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/del%201.png)
 
  --sesudah
-![sesudah](https://github.com/imammularif/SimpleCRUD-PostgreSQL/blob/main/Chapture/del%202.png)
+![sesudah](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/del%202.png)
 
