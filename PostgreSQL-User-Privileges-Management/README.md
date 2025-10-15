@@ -63,7 +63,7 @@ ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT SELECT, INSERT, UPDATE, DELETE O
 ```bash 
 \du
 ```
-![cek users](https://github.com/imammularif/PostgreSQL-User-Privileges-Management/blob/main/Chapture/cek%20user.png)
+![cek users](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-User-Privileges-Management/Chapture/cek%20user.png)
 
 -- kueri untuk cek daftar user dan hak aksesnya menggunakan sql script (jika cek menggunakan user superuser, semua user dan hak aksesnya akan di tampilin semua)
 
@@ -77,7 +77,7 @@ GROUP BY grantee, table_schema, table_name
 ORDER BY grantee, table_schema, table_name;
 ```
 (ilustrasi ini saya cek menggunakan user imul_crud)
-![cek hak akses users](https://github.com/imammularif/PostgreSQL-User-Privileges-Management/blob/main/Chapture/Screenshot%202025-10-09%20204010.png)
+![cek hak akses users](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-User-Privileges-Management/Chapture/Screenshot%202025-10-09%20204010.png)
 
 NOTE : Project ini saya buat sebagai latihan dan dokumentasi pribadi untuk memperdalam pemahaman tentang pengelolaan hak akses user di PostgreSQL secara praktis.
 
