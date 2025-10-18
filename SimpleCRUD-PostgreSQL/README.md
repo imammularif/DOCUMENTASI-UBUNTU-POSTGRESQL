@@ -113,4 +113,5 @@ select * from customers inner join orders on customers.id = orders.id;
 Terkait query CRUD sederhana yang dapat di ilustrasikan tersebut, dapat dipelajari secara lengkap fungsi dan metodenya dari sql postgressnya di [Belajar postgreSQL](https://www.w3schools.com/postgresql/index.php)
 atau bisa di cari platform lain seperti youtube atau sumber online lainya, tks.
 
+#TentunyaAuthorJugaMasihBelajar 
 
