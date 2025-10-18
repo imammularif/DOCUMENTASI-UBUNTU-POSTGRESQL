@@ -114,4 +114,4 @@ Terkait query CRUD sederhana yang dapat di ilustrasikan tersebut, dapat dipelaja
 atau bisa di cari platform lain seperti youtube atau sumber online lainya, tks.
 
 #TentunyaAuthorJugaMasihBelajar 
-
+#DataAnalyst
