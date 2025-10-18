@@ -21,7 +21,7 @@ atau
 
 4. selanjutnya, buat tabel di editor sql-nya. saya disini hanya membuat 2 table saja.
 
-(note : sebelum mempelajari sql/kuery/postgres/mysql lainya, penting untuk memhami terlebihi dahulu Relasi Antar table terkait dengan tipe data, table, dan database itu sendiri, jika tidak anda tidak akan memhami mini-project yang diberikan oleh ku ini..hehehe..silahkan cari literatur lainnnya seperti jurnal, media online terkait pembelajara tentyang RDBMS ini)
+(note : sebelum mempelajari sql/kuery/postgres/mysql terkait database lainya, penting untuk memhami terlebihi dahulu Relasi Antar table(RDBMS) terkait dengan tipe data, table, dan database itu sendiri, jika tidak anda tidak akan memhami mini-project yang diberikan oleh ku ini..hehehe..silahkan cari literatur lainnnya seperti jurnal, media online dll terkait tentang RDBMS ini)
 
 ```bash
 -- table customers
