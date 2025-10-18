@@ -19,7 +19,7 @@ atau
 ```
  ![Show db](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/Chapture/db.png)
 
-4. selanjutnya, buat tabel. saya disini hanya membuat 2 table saja.
+4. selanjutnya, buat tabel di edito sql-nya. saya disini hanya membuat 2 table saja. (note : sebelum mempelajari sql/kuery/postgres/mysql lainya, penting untuk memhami terlebihi dahulu Relasi Antar table terkait dengan tipe data, table, dan database itu sendiri agar bisa mengerti mini project yang di susun oleh Autohor ya itu aku sendiri,,hehe)
 
 ```bash
 -- table customers
