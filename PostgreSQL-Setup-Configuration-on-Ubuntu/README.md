@@ -34,7 +34,7 @@ atau, langsung alter passwornd user dafauldnya. user : postgres
   ```
 note : ini berguna untuk login ke servernya menggunakan DBeaver.(pastikan portnya udah bener)
    
-3. Cek versi PostgreSQL(OPTIONAL):
+3. Cek versi PostgreSQL (OPTIONAL):
 
  ```bash
  psql --version
