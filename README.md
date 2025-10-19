@@ -27,7 +27,7 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 > 
 > Jadi, aku sarankan untuk eksplor dulu literatur lain seperti jurnal, artikel, atau media online yang membahas konsep dasar **RDBMS**.  
 > 
-> Setelah itu, kamu bisa lanjut ke[**Basic-SQL**](https://github.com/imammularif/Basic-SQL), yang sudah aku susun sebagai langkah berikutnya untuk menguasai skill dasar RDBMS — terutama buat kamu yang pengen berkarier sebagai **Data Analyst** atau peran lain di dunia data digital.  
+> Setelah itu, kamu bisa lanjut ke [**Basic-SQL**](https://github.com/imammularif/Basic-SQL), yang sudah aku susun sebagai langkah berikutnya untuk menguasai skill dasar RDBMS — terutama buat kamu yang pengen berkarier sebagai **Data Analyst** atau peran lain di dunia data digital.  
 > 
 > Semoga bermanfaat dan selamat belajar! 🚀
 
