@@ -5,9 +5,9 @@
 ## Tentang Repo Ini
 Repositori ini berisi dokumentasi lengkap seputar instalasi, konfigurasi, dan manajemen PostgreSQL di sistem operasi Ubuntu.  
 Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user & privilege, hingga praktik CRUD dan backup-restore database
-<images here--soon> ;)
----
 
+---
+<images here--soon> ;)
 
 🔧 Fitur Utama
 
