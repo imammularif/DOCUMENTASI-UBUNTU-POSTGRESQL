@@ -18,6 +18,19 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 
 (note : sebelum mempelajari sql/kuery/postgres/mysql terkait database server lainya, penting untuk memhami terlebihi dahulu Relasi Antar table(RDBMS/Relational Database Management System) terkait dengan tipe data, table, dan database itu sendiri, jika tidak anda tidak akan memhami mini-project yang diberikan oleh ku ini..hehehe..silahkan cari literatur lainnnya seperti jurnal, media online dll terkait tentang RDBMS ini) dan jika sudah, silahkan mempelajari ujung tombak terkait RDBMS basic skill sebgai data-analyst/data role lainya terkait RDBMS di industri digital yang sudah ku susun di : [Basic-SQL](https://github.com/imammularif/Basic-SQL). Semoga membantu.
 
+> 💡 **Note:**  
+> Sebelum mempelajari SQL, query, PostgreSQL, MySQL, atau sistem database lainnya, penting banget untuk memahami dulu konsep **Relasi Antar Tabel (RDBMS – Relational Database Management System)**.  
+> 
+> Di sinilah fondasi logika database dimulai — tipe data, struktur tabel, hingga hubungan antar database.  
+> Kalau bagian ini belum dipahami, kemungkinan besar kamu bakal kesulitan mengikuti mini project yang aku buat di sini 😄.  
+> 
+> Jadi, aku sarankan untuk eksplor dulu literatur lain seperti jurnal, artikel, atau media online yang membahas konsep dasar **RDBMS**.  
+> 
+> Setelah itu, kamu bisa lanjut ke[**Basic-SQL**](https://github.com/imammularif/Basic-SQL), yang sudah aku susun sebagai langkah berikutnya untuk menguasai skill dasar RDBMS — terutama buat kamu yang pengen berkarier sebagai **Data Analyst** atau peran lain di dunia data digital.  
+> 
+> Semoga bermanfaat dan selamat belajar! 🚀
+
+
 ---
 
 *💡 FYI: Semua langkah di sini dicoba di Ubuntu 22.04 LTS & PostgreSQL 16. Bisa jalan di versi lain, tapi cek dulu kompatibilitasnya.*
