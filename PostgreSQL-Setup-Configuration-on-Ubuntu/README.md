@@ -45,7 +45,7 @@ atau
  ls /etc/postgresql/
   ```
 
-## 2. Konfigurasi PostgreSQL
+## 2. Konfigurasi PostgreSQL (Optional)
 
 1. Buka file konfigurasi:
 
