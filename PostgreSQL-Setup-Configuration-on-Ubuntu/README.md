@@ -35,7 +35,7 @@ Untuk langkah selanjutnya untuk koneksi ke dbeaver-nya, dapat dilihat dokumentas
 
 ## 2. Configurasi PostgreSQL (Optional)
    
-3. Cek versi PostgreSQL:
+1. Cek versi PostgreSQL:
 
  ```bash
  psql --version
@@ -46,21 +46,19 @@ atau
  ls /etc/postgresql/
   ```
 
-## 2. Konfigurasi PostgreSQL
-
-1. Buka file konfigurasi:
+2. Buka file konfigurasi:
 
 ```bash
 sudo nano /etc/postgresql/<versi>/main/postgresql.conf
   ```
 
-2. Cari baris port dan ubah sesuai kebutuhan:
+3. Cari baris port dan ubah sesuai kebutuhan:
 
 ```bash
 port = 5433
    ```
 
-3. Simpan dan keluar (Ctrl+X, Y, Enter).
+4. Simpan dan keluar (Ctrl+X, Y, Enter).
 
 ## 3. Restart PostgreSQL (Optional jika ada perubahan konfigurasi Postgres-nya)
 
