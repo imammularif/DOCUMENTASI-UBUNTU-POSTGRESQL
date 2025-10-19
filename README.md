@@ -5,6 +5,7 @@
 Repositori ini berisi dokumentasi lengkap seputar instalasi, konfigurasi, dan manajemen PostgreSQL di sistem operasi Ubuntu.  
 Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user & privilege, hingga praktik CRUD dan backup-restore database
 
+---
 
 
 🔧 Fitur Utama
@@ -21,10 +22,14 @@ Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user
 
 [Instalasi DBeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu) : Panduan untuk menginstal DBeaver sebagai GUI PostgreSQL.
 
+---
+
 🧰 **Teknologi yang digunakan**
 - Ubuntu (Server Environment)  
 - PostgreSQL (Database)  
 - DBeaver (Database Management Tool)
+
+---
 
 📖 **Tujuan**
 Sebagai dokumentasi pribadi dan referensi terbuka bagi siapa pun yang ingin mempelajari PostgreSQL di Linux environment.
