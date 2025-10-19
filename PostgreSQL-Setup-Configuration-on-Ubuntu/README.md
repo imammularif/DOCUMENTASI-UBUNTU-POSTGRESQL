@@ -1,4 +1,4 @@
-# PostgreSQL Instalation/Setup & Configuration on Ubuntu
+# PostgreSQL Installation/Setup & Configuration on Ubuntu
 
 Dokumentasi ini menjelaskan cara instalasi, konfigurasi, dan pengaturan port PostgreSQL di Ubuntu. 
 Dokumentasi ini dibuat sebagai referensi pribadi atau mini project.
