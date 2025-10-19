@@ -21,7 +21,7 @@ Setelah postgres nya udah ke install, cek usernya :
 ```bash
 --cooming soon--
   ```
-atau, langsung alter passwornd user dafauldnya. user : postgres
+atau, langsung alter passwornd user dafauldnya. user default : postgres
 
 --login dulu
 ```bash
