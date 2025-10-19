@@ -80,13 +80,13 @@ sudo ss -plnt | grep postgres
    ```
 ![cek_port](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/Chapture/cek_port.png)
 
-(posisi portnya ada di angka 5488 (port defauldnya : 5432) 
+(posisi portnya ada di angka 5488 (port defauldnya : 5432) itu psosisinya udah di ubah,,wkwk
 
 --entah kenapa saat dilakukan menggunakan fungsi netstat nya dia gk bisa, mungkin belum di inisiasi/install ke systemnya/os nya. hehe
 
 
 
-Untuk koneksi ke dbeaver, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
+Untuk langkah selanjutnya untuk koneksi ke dbeaver-nya, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
 
 
 
