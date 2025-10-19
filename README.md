@@ -2,6 +2,10 @@
 
 Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ubuntu. Cocok untuk pengembang, sysadmin, dan siapa saja yang ingin menguasai PostgreSQL di Ubuntu.
 
+
+📖 **Tujuan**
+Sebagai dokumentasi pribadi dan referensi terbuka bagi siapa pun yang ingin mempelajari PostgreSQL di Linux environment.
+
 🔧 Fitur Utama
 
 [Instalasi PostgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/PostgreSQL-Setup-Configuration-on-Ubuntu) : Langkah demi langkah untuk menginstal PostgreSQL di Ubuntu.
