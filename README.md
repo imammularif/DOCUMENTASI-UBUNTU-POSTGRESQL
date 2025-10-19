@@ -16,7 +16,6 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 
 [Instalasi DBeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu) : Panduan untuk menginstal DBeaver sebagai GUI PostgreSQL.
 
-(note : sebelum mempelajari sql/kuery/postgres/mysql terkait database server lainya, penting untuk memhami terlebihi dahulu Relasi Antar table(RDBMS/Relational Database Management System) terkait dengan tipe data, table, dan database itu sendiri, jika tidak anda tidak akan memhami mini-project yang diberikan oleh ku ini..hehehe..silahkan cari literatur lainnnya seperti jurnal, media online dll terkait tentang RDBMS ini) dan jika sudah, silahkan mempelajari ujung tombak terkait RDBMS basic skill sebgai data-analyst/data role lainya terkait RDBMS di industri digital yang sudah ku susun di : [Basic-SQL](https://github.com/imammularif/Basic-SQL). Semoga membantu.
 
 > 💡 **Note:**  
 > Sebelum mempelajari SQL, query, PostgreSQL, MySQL, atau sistem database lainnya, penting banget untuk memahami dulu konsep **Relasi Antar Tabel (RDBMS – Relational Database Management System)**.  
@@ -33,12 +32,6 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 
 ---
 
-*💡 FYI: Semua langkah di sini dicoba di Ubuntu 22.04 LTS & PostgreSQL 16. Bisa jalan di versi lain, tapi cek dulu kompatibilitasnya.*
-
-*⚡ Keep calm and query on! Jangan lupa backup database sebelum nge-experiment.*
-
-*🚀 Versi dokumentasi: 1.0 | Last update: Oktober 2025.* ✨
-
 💬 **Catatan Penulis**
 
 Repo ini menggambarkan salah satu jenis **server lokal** yang biasanya digunakan oleh **administrator database atau developer** untuk mengelola koneksi antara **API dan database** pada platform yang mereka buat (sepengetahuan author 😄).  
@@ -50,6 +43,13 @@ Bagi aku pribadi, ini hanyalah **latihan dasar untuk menapaki karier sebagai bac
 Mungkin ke depan aku bakal coba mempelajari **Docker, pgAdmin, dan tools lain** biar bisa makin “khusyuk” dalam memahami PostgreSQL ini.  
 
 Semoga dokumentasi sederhana ini bisa bermanfaat untuk teman-teman yang juga sedang belajar, dan jadi pengingat bahwa semua hal besar berawal dari *belajar hal kecil dengan konsisten*. 🚀
+
+
+*💡 FYI: Semua langkah di sini dicoba di Ubuntu 22.04 LTS & PostgreSQL 16. Bisa jalan di versi lain, tapi cek dulu kompatibilitasnya.*
+
+*⚡ Keep calm and query on! Jangan lupa backup database sebelum nge-experiment.*
+
+*🚀 Versi dokumentasi: 1.1 | Last update: Oktober 2025.* ✨
 
 
 
