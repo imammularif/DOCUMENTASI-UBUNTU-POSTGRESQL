@@ -45,6 +45,8 @@ Mungkin ke depan aku bakal coba mempelajari **Docker, pgAdmin, dan tools lain** 
 Semoga dokumentasi sederhana ini bisa bermanfaat untuk teman-teman yang juga sedang belajar, dan jadi pengingat bahwa semua hal besar berawal dari *belajar hal kecil dengan konsisten*. 🚀
 
 
+
+
 *💡 FYI: Semua langkah di sini dicoba di Ubuntu 22.04 LTS & PostgreSQL 16. Bisa jalan di versi lain, tapi cek dulu kompatibilitasnya.*
 
 *⚡ Keep calm and query on! Jangan lupa backup database sebelum nge-experiment.*
