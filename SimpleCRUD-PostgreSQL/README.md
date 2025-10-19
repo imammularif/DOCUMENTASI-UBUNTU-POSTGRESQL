@@ -7,7 +7,7 @@ Berikut saya mendokumentasi beberapa cara sederhana untuk membuat table serta in
 ```bash 
 create database coba_db;
 ```
-untuk cek apakah databasenya sudah dibuat atau belum, dapat menggunakan shortcut berikut :
+untuk cek apakah databasenya sudah dibuat atau belum, dapat menggunakan shortcut berikut(jika menggunakan terminal(psql)) :
 
 ```bash 
 \l
