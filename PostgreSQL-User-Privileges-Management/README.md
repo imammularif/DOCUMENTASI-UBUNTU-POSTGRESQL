@@ -43,11 +43,11 @@ atau beri hak user select
 ```bash 
 GRANT SELECT ON ALL TABLES IN SCHEMA public TO nama_user;
 ```
-atau select & update
+atau select, Insert, & update
 ```bash 
-GRANT SELECT, UPDATE ON ALL TABLES IN SCHEMA public TO nama_user;
+GRANT SELECT, INSERT, UPDATE ON ALL TABLES IN SCHEMA public TO nama_user;
 ```
-lalu
+Lalu konek user ke schemanya.
 ```bash 
 GRANT CREATE ON SCHEMA public TO imul_crud;
 ```
