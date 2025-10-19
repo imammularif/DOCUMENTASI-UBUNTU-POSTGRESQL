@@ -26,7 +26,7 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 
 *🚀 Versi dokumentasi: 1.0 | Last update: Oktober 2025.* ✨
 
-sebenarnya ini merupakan salah satu jenis server(local) sebagai gambaran yang digunakan oleh administrator/data admin yang biasa digunakan oleh developer untuk mengelola API dsb untuk terhubung ke database terhadap platform yang mereka buat(sepengetahuan author). dan ini juga salah satu keilmuan role data/data-analyst(visual, sql, python) jika anda menekuni di peran tersebut menggunakan SQL. ini hanyalah latihan dasar untuk memulai berkarir sebagai backend-data dan terjun ke realtime menggunakan server seperti google, oracle, clud atau infrastruktur lainya yang digunakan oleh perusahaan dan masih banyak lagi,,wlwkwk. semoga bermanfaat
+sebenarnya ini merupakan salah satu jenis server(local) sebagai gambaran yang digunakan oleh administrator/data admin yang biasa digunakan oleh developer untuk mengelola API dsb untuk terhubung ke database terhadap platform yang mereka buat(sepengetahuan author). dan ini juga salah satu gambaran keilmuan sebagai data-role/data-analyst(visual, sql, python dsb) jika anda menekuni di peran tersebut menggunakan SQL. ini hanyalah latihan dasar untuk memulai berkarir sebagai backend-data dan terjun ke realtime menggunakan server seperti google, oracle, clud atau infrastruktur lainya yang digunakan oleh perusahaan dan masih banyak lagi,,wlwkwk. semoga bermanfaat
 
 
 
