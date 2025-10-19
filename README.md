@@ -32,6 +32,7 @@ Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user
 ---
 
 📖 **Tujuan**
+
 Sebagai dokumentasi pribadi dan referensi terbuka bagi siapa pun yang ingin mempelajari PostgreSQL di Linux environment.
 
 
