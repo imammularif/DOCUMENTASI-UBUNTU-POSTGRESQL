@@ -1,7 +1,7 @@
 Berikut saya mendokumentasi beberapa cara sederhana untuk membuat table serta insert data kedalam database di postgreSQL
 
 1. Buka dbeaver yang sudah di install [Cara Instalasi DBeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
-2. buat koneksi baru dan login menggunakan user_crud yang sudah dibuat sebelumnya / kalau gk ngerti caranya, gunakan user default-nya saja yang sudah di-[!ALTER](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/PostgreSQL-Setup-Configuration-on-Ubuntu#1-instalasi-postgresql) passwordnya saat instalasi postgres-nya. hehehe
+2. buat koneksi baru dan login menggunakan user_crud yang sudah dibuat sebelumnya / kalau gk ngerti caranya, gunakan user default-nya saja yang sudah di-[ALTER](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/PostgreSQL-Setup-Configuration-on-Ubuntu#1-instalasi-postgresql) passwordnya saat instalasi postgres-nya. hehehe
 3. buka editor sql nya, dan buat database nya.
 
 ```bash 
