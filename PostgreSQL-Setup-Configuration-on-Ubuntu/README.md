@@ -17,7 +17,7 @@ Dokumentasi ini dibuat sebagai referensi pribadi atau mini project.
  sudo apt install postgresql postgresql-contrib
   ```
 
- alter passwornd user-nya. user : postgres
+3. alter passwornd user-nya. user : postgres
 
 --login dulu
 ```bash
@@ -29,8 +29,13 @@ Dokumentasi ini dibuat sebagai referensi pribadi atau mini project.
  alter user postgres with password 'superuser12345';
   ```
 note : ini berguna untuk login ke servernya menggunakan DBeaver.(pastikan portnya udah bener)
+
+Untuk langkah selanjutnya untuk koneksi ke dbeaver-nya, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
+
+
+## 2. Configurasi PostgreSQL (Optional)
    
-3. Cek versi PostgreSQL (OPTIONAL):
+3. Cek versi PostgreSQL:
 
  ```bash
  psql --version
@@ -41,7 +46,7 @@ atau
  ls /etc/postgresql/
   ```
 
-## 2. Konfigurasi PostgreSQL (Optional)
+## 2. Konfigurasi PostgreSQL
 
 1. Buka file konfigurasi:
 
@@ -79,13 +84,6 @@ sudo ss -plnt | grep postgres
 (posisi portnya ada di angka 5488 (port defauldnya : 5432) itu psosisinya udah di ubah,,wkwk
 
 --entah kenapa saat dilakukan menggunakan fungsi netstat nya dia gk bisa, mungkin belum di inisiasi/install ke systemnya/os nya. hehe
-
-
-
-Untuk langkah selanjutnya untuk koneksi ke dbeaver-nya, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
-
-
-
 
 
 
