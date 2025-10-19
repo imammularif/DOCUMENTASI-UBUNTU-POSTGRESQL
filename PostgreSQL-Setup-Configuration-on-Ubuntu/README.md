@@ -24,7 +24,7 @@ note : jika ada kendala conect ke servernya, biasanya setelah install postgresql
  psql -u postgres -d postgres
   ```
 
---lalu alter password
+--lalu alter password (alter user <nama_user> with password <'isi_password'>;)
 ```bash
  alter user postgres with password 'superuser12345';
   ```
