@@ -61,7 +61,7 @@ port = 5433
 
 3. Simpan dan keluar (Ctrl+X, Y, Enter).
 
-## 3. Restart PostgreSQL
+## 3. Restart PostgreSQL (Optional jika ada perubahan konfigurasi Postgres-nya)
 
 Supaya konfigurasi baru aktif:
 
