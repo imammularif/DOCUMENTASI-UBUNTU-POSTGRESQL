@@ -69,7 +69,7 @@ Supaya konfigurasi baru aktif:
 sudo systemctl restart postgresql
    ```
 
-## 4. Verifikasi Port
+## 4. Verifikasi Port / cek PORT
 ```bash
 sudo netstat -plnt | grep postgres
    ```
