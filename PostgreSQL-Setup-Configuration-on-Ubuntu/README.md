@@ -28,7 +28,7 @@ Dokumentasi ini dibuat sebagai referensi pribadi atau mini project.
 ```bash
  alter user postgres with password 'superuser12345';
   ```
-note : ini berguna untuk login ke servernya menggunakan DBeaver.(pastikan portnya udah bener)
+note : ini berguna untuk login ke servernya menggunakan DBeaver.(pastikan portnya udah bener (default port nya : 5432)
 
 Untuk langkah selanjutnya untuk koneksi ke dbeaver-nya, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
 
@@ -81,7 +81,7 @@ sudo ss -plnt | grep postgres
    ```
 ![cek_port](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/Chapture/cek_port.png)
 
-(posisi portnya ada di angka 5488 (port defauldnya : 5432) itu psosisinya udah di ubah,,wkwk
+(posisi portnya ada di angka 5488 (port defauldnya : 5432) itu posisinya udah di ubah,,wkwk
 
 --entah kenapa saat dilakukan menggunakan fungsi netstat nya dia gk bisa, mungkin belum di inisiasi/install ke systemnya/os nya. hehe
 
