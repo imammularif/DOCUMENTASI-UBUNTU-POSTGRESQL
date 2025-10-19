@@ -26,5 +26,10 @@ Panduan lengkap untuk menginstal, mengonfigurasi, dan mengelola PostgreSQL di Ub
 
 *🚀 Versi dokumentasi: 1.0 | Last update: Oktober 2025.* ✨
 
+sebenarnya ini merupakan salah satu jenis server yang digunakan oleh administrator dibalik semua sistem/website yang digunakan oleh developer untuk mengelola API dsb untuk mengambil GET terhadap platform yang mereka buat. dan ini juga salah satu keilmuan role data/dataanalst jika anda menekuni di peran tersebut. dan ini hanyalah latihan dasar untuk memulai berkarir sebagai backend-data di sebuah perusahaan. semoga bermanfaat
+
+
+
+
 
 
