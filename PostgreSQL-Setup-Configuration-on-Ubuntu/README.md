@@ -17,11 +17,7 @@ Dokumentasi ini dibuat sebagai referensi pribadi atau mini project.
  sudo apt install postgresql postgresql-contrib
   ```
 
-Setelah postgres nya udah ke install, cek usernya :
-```bash
---cooming soon--
-  ```
-atau, langsung alter passwornd user dafauldnya. user default : postgres
+ alter passwornd user-nya. user : postgres
 
 --login dulu
 ```bash
