@@ -22,7 +22,7 @@ CREATE USER imul_crud WITH PASSWORD 'supersecret123';
 ### 2. Membuat Database
 
 
-Buat databasenya beserta konekin ke user yang sudah di buat tadi.
+Buat databasenya lalu konekin ke user yang sudah di buat tadi.
 
 ```bash 
 CREATE DATABASE db_test OWNER imul_crud;
