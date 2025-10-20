@@ -22,7 +22,7 @@
 
 
 # Configurasi postgress
-1. Sebelumnya, harus instalasi postgreeSQL terlebih dahulu  [Cara instalasi postgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/PostgreSQL-Setup-Configuration-on-Ubuntu)
+1. Sebelumnya, harus instalasi postgreeSQL terlebih dahulu  [Cara instalasi postgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md)
 1. Pilih new database connection, lalu pilih postgreSQL, lalu masukan Password yang sudah di ALTER sebelumnya, lalu test connection
    
    ![8](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Cara-Install-Dbeaver-di-Ubuntu/Chapture/8.png)
