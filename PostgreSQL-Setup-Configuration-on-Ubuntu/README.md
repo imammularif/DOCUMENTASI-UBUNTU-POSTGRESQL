@@ -30,7 +30,7 @@ Dokumentasi ini dibuat sebagai referensi pribadi atau mini project.
   ```
 note : ini berguna untuk login ke servernya menggunakan DBeaver.(pastikan portnya udah bener (default port nya : 5432)
 
-Untuk langkah selanjutnya untuk koneksi ke dbeaver-nya, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/Cara-Install-Dbeaver-di-Ubuntu)
+Untuk langkah selanjutnya untuk koneksi ke dbeaver-nya, dapat dilihat dokumentasinya menggunakan link berikut : [Instalasi & konfigurasi Dbeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Cara-Install-Dbeaver-di-Ubuntu/README.md)
 
 
 ## 2. Configurasi PostgreSQL (Optional)
