@@ -13,7 +13,7 @@ Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user
 
 ## Daftar Isi
 
-[Instalasi PostgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/PostgreSQL-Setup-Configuration-on-Ubuntu) : Langkah demi langkah untuk menginstal PostgreSQL di Ubuntu.
+[Instalasi PostgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md) : Langkah demi langkah untuk menginstal PostgreSQL di Ubuntu.
 
 [Konfigurasi Dasar](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/tree/main/PostgreSQL-Setup-Configuration-on-Ubuntu#2-konfigurasi-postgresql) : Pengaturan awal untuk koneksi dan autentikasi.
 
