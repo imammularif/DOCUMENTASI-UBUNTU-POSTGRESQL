@@ -78,10 +78,13 @@ Semoga dokumentasi sederhana ini bisa bermanfaat untuk teman-teman yang juga sed
 *🚀 Versi dokumentasi: 1.1 | Last update: Oktober 2025.* ✨
 
 #### Screenshot
-
+---
 ![Image here 1]()
+---
 ![Image here 2]()
+---
 ![Image here 3]()
+---
 
 
 
