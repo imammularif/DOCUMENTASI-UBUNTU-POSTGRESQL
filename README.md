@@ -11,7 +11,7 @@ Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user
 
 #### Screenshot
 ---
-![Image here 1]()
+![Image here 1](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/terminal_linux.png)
 ---
 ![Image here 2]()
 ---
