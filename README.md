@@ -1,14 +1,14 @@
 ## 📘 Dokumentasi PostgreSQL di Ubuntu
 
-
+---
+![Poster](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/posgres_ubuntu.jpg)
+---
 
 ## Tentang Repo Ini
 Repositori ini berisi dokumentasi lengkap seputar instalasi, konfigurasi, dan manajemen PostgreSQL di sistem operasi Ubuntu.  
 Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user & privilege, hingga praktik CRUD dan backup-restore database
+--
 
----
-![Poster](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/posgres_ubuntu.jpg)
----
 #### Screenshot
 ---
 ![Image here 1]()
