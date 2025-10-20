@@ -21,7 +21,10 @@ Dokumentasi ini dibuat sebagai referensi pribadi atau mini project.
 
 --login dulu
 ```bash
- psql -u postgres -d postgres
+ sudo -i -u postgres
+  ```
+```bash
+ psql
   ```
 
 --lalu alter password (alter user <nama_user> with password <'isi_password'>;)
