@@ -15,7 +15,7 @@ Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user
 ---
 ![Image here 2]()
 ---
-![Image here 3]()
+![Image here 3](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/Connect%20server_database.png)
 > Contoh setup PostgreSQL & koneksi database di Ubuntu 22.04 LTS
 ---
 
