@@ -43,9 +43,9 @@ Berikut beberapa tangkapan layar dari proses instalasi, konfigurasi, dan pengelo
 | [Instalasi PostgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md) | Panduan instalasi PostgreSQL pada sistem operasi Ubuntu. |
 | [Konfigurasi Dasar](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md#2-configurasi-postgresql-optional) | Pengaturan awal PostgreSQL, termasuk konfigurasi koneksi dan autentikasi. |
 | [Manajemen Pengguna & Hak Akses](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-User-Privileges-Management/README.md) | Praktik membuat pengguna, mengelola role, dan mengatur privilege database. |
-| [Operasi CRUD Sederhana](https://github.com/imammularif/DOCUMENTACI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/README.md) | Implementasi operasi Create, Read, Update, dan Delete menggunakan SQL. |
-| [Backup & Restore Database](https://github.com/imammularif/DOCUMENTACI-UBUNTU-POSTGRESQL/blob/main/backup-restore-postgreSQL/README.md) | Panduan pencadangan dan pemulihan database PostgreSQL. |
-| [Instalasi DBeaver](https://github.com/imammularif/DOCUMENTACI-UBUNTU-POSTGRESQL/blob/main/Cara-Install-Dbeaver-di-Ubuntu/README.md) | Panduan instalasi DBeaver sebagai perangkat bantu pengelolaan database. |
+| [Operasi CRUD Sederhana](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/README.md) | Implementasi operasi Create, Read, Update, dan Delete menggunakan SQL. |
+| [Backup & Restore Database](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/backup-restore-postgreSQL/README.md) | Panduan pencadangan dan pemulihan database PostgreSQL. |
+| [Instalasi DBeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Cara-Install-Dbeaver-di-Ubuntu/README.md) | Panduan instalasi DBeaver sebagai perangkat bantu pengelolaan database. |
 
 ---
 
