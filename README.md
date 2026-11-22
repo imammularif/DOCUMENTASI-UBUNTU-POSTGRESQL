@@ -1,95 +1,127 @@
-## 📘 Dokumentasi PostgreSQL di Ubuntu
+# 📘 Dokumentasi PostgreSQL di Ubuntu
+
+Dokumentasi pembelajaran PostgreSQL yang mencakup proses instalasi, konfigurasi, pengelolaan database, hingga praktik dasar administrasi database menggunakan sistem operasi Ubuntu.
 
 ---
+
+## 🖼️ Dokumentasi Proyek
+
 ![Poster](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/posgres_ubuntu.jpg)
----
-## Tentang Repo Ini
-Repositori ini berisi dokumentasi lengkap seputar instalasi, konfigurasi, dan manajemen PostgreSQL di sistem operasi Ubuntu.  
-Setiap folder mewakili topik berbeda — mulai dari setup awal, pengelolaan user & privilege, hingga praktik CRUD dan backup-restore database
 
 ---
 
-#### Screenshot
----
-![Image here 1](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/terminal_linux.png)
----
-![Image here 2](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/dbeaver_scriptSQL.png)
----
-![Image here 3](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/Connect%20server_database.png)
-> Contoh setup PostgreSQL & koneksi database di Ubuntu 22.04 LTS
----
+## 📌 Tentang Repository
 
-## Daftar Isi
+Repository ini berisi kumpulan dokumentasi dan praktik dasar dalam menggunakan **PostgreSQL** pada lingkungan Linux, khususnya Ubuntu.
 
-[Instalasi PostgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md) : Langkah demi langkah untuk menginstal PostgreSQL di Ubuntu.
+Materi disusun secara bertahap untuk memahami bagaimana sebuah sistem database dipersiapkan, dikonfigurasi, dikelola, dan digunakan untuk menjalankan operasi pengolahan data.
 
-[Konfigurasi Dasar](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md#2-configurasi-postgresql-optional) : Pengaturan awal untuk koneksi dan autentikasi.
+Pembahasan meliputi instalasi PostgreSQL, konfigurasi koneksi, manajemen pengguna dan hak akses, operasi CRUD, serta proses pencadangan dan pemulihan database.
 
-[Manajemen Pengguna & Hak Akses](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-User-Privileges-Management/README.md) : Cara membuat dan mengelola pengguna serta hak akses.
-
-[Operasi CRUD Sederhana](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/README.md) : Contoh implementasi operasi Create, Read, Update, Delete.
-
-[Backup & Restore Database](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/backup-restore-postgreSQL/README.md) : Langkah-langkah untuk mencadangkan dan mengembalikan database.
-
-[Instalasi DBeaver](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Cara-Install-Dbeaver-di-Ubuntu/README.md) : Panduan untuk menginstal DBeaver sebagai GUI PostgreSQL.
+Repository ini dibuat sebagai dokumentasi pembelajaran sekaligus referensi praktik bagi siapa pun yang ingin mengenal PostgreSQL lebih dalam.
 
 ---
 
-🧰 **Teknologi yang digunakan**
-- Ubuntu (Server Environment)  
-- PostgreSQL (Database)  
-- DBeaver (Database Management Tool)
+## 📷 Dokumentasi Praktik
+
+Berikut beberapa tangkapan layar dari proses instalasi, konfigurasi, dan pengelolaan PostgreSQL di Ubuntu.
+
+![Terminal Linux](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/terminal_linux.png)
+
+![DBeaver SQL Script](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/dbeaver_scriptSQL.png)
+
+![Koneksi Server Database](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/Image/Connect%20server_database.png)
+
+> Contoh proses penggunaan terminal Linux, eksekusi SQL melalui DBeaver, serta koneksi ke server PostgreSQL pada Ubuntu 22.04 LTS.
 
 ---
 
-📖 **Tujuan**
+## 📚 Daftar Isi
 
-Sebagai dokumentasi pribadi dan referensi terbuka bagi siapa pun yang ingin mempelajari PostgreSQL di Linux environment.
-
-
-----
-
-> 💡 **Note:**  
-> Sebelum mempelajari SQL, query, PostgreSQL, MySQL, atau sistem database lainnya, penting banget untuk memahami dulu konsep **Relasi Antar Tabel (RDBMS – Relational Database Management System)**.  
-> 
-> Di sinilah fondasi logika database dimulai — tipe data, struktur tabel, hingga hubungan antar database.  
-> Kalau bagian ini belum dipahami, kemungkinan besar kamu bakal kesulitan mengikuti mini project yang aku buat di sini 😄.  
-> 
-> Jadi, aku sarankan untuk eksplor dulu literatur lain seperti jurnal, artikel, atau media online yang membahas konsep dasar **RDBMS**.  
-> 
-> Setelah itu, kamu bisa lanjut ke [**Basic-SQL**](https://github.com/imammularif/Basic-SQL), yang sudah aku susun sebagai langkah berikutnya untuk menguasai skill dasar RDBMS — terutama buat kamu yang pengen berkarier sebagai **Data Analyst** atau peran lain di dunia data digital.  
-> 
-> Semoga bermanfaat dan selamat belajar! 🚀
-
+| Materi | Deskripsi |
+|---|---|
+| [Instalasi PostgreSQL](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md) | Panduan instalasi PostgreSQL pada sistem operasi Ubuntu. |
+| [Konfigurasi Dasar](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-Setup-Configuration-on-Ubuntu/README.md#2-configurasi-postgresql-optional) | Pengaturan awal PostgreSQL, termasuk konfigurasi koneksi dan autentikasi. |
+| [Manajemen Pengguna & Hak Akses](https://github.com/imammularif/DOCUMENTASI-UBUNTU-POSTGRESQL/blob/main/PostgreSQL-User-Privileges-Management/README.md) | Praktik membuat pengguna, mengelola role, dan mengatur privilege database. |
+| [Operasi CRUD Sederhana](https://github.com/imammularif/DOCUMENTACI-UBUNTU-POSTGRESQL/blob/main/SimpleCRUD-PostgreSQL/README.md) | Implementasi operasi Create, Read, Update, dan Delete menggunakan SQL. |
+| [Backup & Restore Database](https://github.com/imammularif/DOCUMENTACI-UBUNTU-POSTGRESQL/blob/main/backup-restore-postgreSQL/README.md) | Panduan pencadangan dan pemulihan database PostgreSQL. |
+| [Instalasi DBeaver](https://github.com/imammularif/DOCUMENTACI-UBUNTU-POSTGRESQL/blob/main/Cara-Install-Dbeaver-di-Ubuntu/README.md) | Panduan instalasi DBeaver sebagai perangkat bantu pengelolaan database. |
 
 ---
 
-💬 **Catatan Penulis**
+## 🛠️ Teknologi dan Perangkat
 
-Repo ini menggambarkan salah satu jenis **server lokal** yang biasanya digunakan oleh **administrator database atau developer** untuk mengelola koneksi antara **API dan database** pada platform yang mereka buat (sepengetahuan author 😄).  
-
-Selain itu, dokumentasi ini juga jadi gambaran kecil tentang **peran data-role atau data-analyst** yang menggunakan kombinasi alat seperti **SQL, Python, dan visualisasi data**.  
-
-Bagi aku pribadi, ini hanyalah **latihan dasar untuk menapaki karier sebagai backend-data enthusiast**, sebelum nanti terjun ke sistem real-time di server besar seperti **Google Cloud, Oracle, atau infrastruktur enterprise lainnya**.  
-
-Mungkin ke depan aku bakal coba mempelajari **Docker, pgAdmin, dan tools lain** biar bisa makin “khusyuk” dalam memahami PostgreSQL ini.  
-
-Semoga dokumentasi sederhana ini bisa bermanfaat untuk teman-teman yang juga sedang belajar, dan jadi pengingat bahwa semua hal besar berawal dari *belajar hal kecil dengan konsisten*. 🚀
-
+| Teknologi | Kegunaan |
+|---|---|
+| **Ubuntu 22.04 LTS** | Sistem operasi dan lingkungan Linux untuk menjalankan PostgreSQL. |
+| **PostgreSQL 16** | Relational Database Management System (RDBMS) untuk menyimpan dan mengelola data. |
+| **DBeaver** | Perangkat berbasis GUI untuk mengakses database, menjalankan SQL, dan mengelola objek database. |
+| **Linux Terminal** | Menjalankan perintah instalasi, konfigurasi, dan administrasi PostgreSQL. |
+| **SQL** | Bahasa untuk membuat, membaca, memperbarui, dan menghapus data. |
 
 ---
 
-*💡 FYI: Semua langkah di sini dicoba di Ubuntu 22.04 LTS & PostgreSQL 16. Bisa jalan di versi lain, tapi cek dulu kompatibilitasnya.*
+## 🎯 Tujuan Pembelajaran
 
-*⚡ Keep calm and query on! Jangan lupa backup database sebelum nge-experiment.*
+Melalui dokumentasi ini, tujuan pembelajaran yang ingin dicapai adalah:
 
-*🚀 Versi dokumentasi: 1.1 | Last update: Oktober 2025.* ✨
+1. Memahami proses instalasi dan konfigurasi PostgreSQL di lingkungan Linux.
+2. Mengenal konsep dasar database dan Relational Database Management System (RDBMS).
+3. Memahami pengelolaan pengguna, role, dan hak akses database.
+4. Mempraktikkan operasi CRUD menggunakan SQL.
+5. Memahami proses Backup & Restore untuk menjaga ketersediaan data.
+6. Mengenal penggunaan DBeaver sebagai alat bantu administrasi dan pengelolaan database.
 
+---
 
+## 💡 Catatan Penting: Memahami Konsep RDBMS
 
+Sebelum mempelajari SQL, PostgreSQL, MySQL, atau sistem database relasional lainnya, penting untuk memahami konsep dasar **Relational Database Management System (RDBMS)**.
 
+Beberapa konsep yang perlu dipahami antara lain:
 
+- Struktur tabel, baris, dan kolom.
+- Tipe data dan batasan data (*data constraints*).
+- Primary Key dan Foreign Key.
+- Relasi antar tabel.
+- Normalisasi database.
+- Query untuk mengolah dan mengambil data.
 
+Pemahaman terhadap konsep tersebut akan membantu dalam memahami bagaimana data disimpan, dihubungkan, dan dikelola dalam sebuah sistem database.
 
+Sebagai langkah pembelajaran berikutnya, kamu juga bisa mengunjungi repository [**Basic SQL**](https://github.com/imammularif/Basic-SQL). Di sana terdapat latihan query SQL menggunakan studi kasus sederhana untuk memperkuat pemahaman mengenai struktur tabel, relasi, JOIN, dan pengolahan data.
 
+Materi ini relevan sebagai fondasi awal bagi siapa pun yang ingin mengembangkan kemampuan di bidang **Data Analyst, Data Operations, Database Administration**, maupun bidang teknologi informasi lainnya.
 
+---
+
+## 💬 Catatan Penulis
+
+Repository ini merupakan salah satu dokumentasi perjalanan belajar saya dalam memahami pengelolaan database menggunakan PostgreSQL di lingkungan Linux.
+
+Melalui praktik ini, saya mencoba mengenal proses kerja database dari sisi teknis, mulai dari instalasi server, konfigurasi koneksi, pengelolaan pengguna dan hak akses, hingga menjalankan query SQL menggunakan perangkat bantu seperti DBeaver.
+
+Dokumentasi ini juga menjadi pengenalan awal terhadap bagaimana database digunakan dalam sebuah sistem aplikasi. Dalam implementasi nyata, database dapat terhubung dengan aplikasi atau layanan backend melalui API untuk mendukung proses penyimpanan, pengambilan, dan pengelolaan data.
+
+Bagi saya, latihan ini merupakan bagian dari proses membangun fondasi kemampuan di bidang **SQL, Data Management, dan Database Operations** sebelum mempelajari teknologi yang lebih kompleks, seperti Docker, cloud database, dan infrastruktur database berskala enterprise.
+
+Ke depannya, dokumentasi ini masih berpotensi dikembangkan dengan materi tambahan serta eksplorasi perangkat lain seperti pgAdmin dan Docker.
+
+Saya percaya bahwa pemahaman terhadap sistem yang kompleks selalu dimulai dari penguasaan konsep dan praktik dasar secara konsisten.
+
+Semoga dokumentasi ini dapat bermanfaat bagi siapa pun yang sedang mempelajari PostgreSQL dan teknologi database.
+
+---
+
+## ℹ️ Informasi Dokumentasi
+
+- **Sistem Operasi:** Ubuntu 22.04 LTS
+- **Database Management System:** PostgreSQL 16
+- **Database Client:** DBeaver
+- **Bahasa Query:** SQL
+- **Versi Dokumentasi:** 1.1
+- **Pembaruan Terakhir:** Oktober 2025
+
+> **Catatan:** Seluruh langkah dalam dokumentasi ini telah dicoba menggunakan Ubuntu 22.04 LTS dan PostgreSQL 16. Beberapa langkah mungkin memerlukan penyesuaian apabila menggunakan versi sistem operasi atau PostgreSQL yang berbeda.
+
+**⚡ Keep calm and query on!** Jangan lupa melakukan Backup sebelum bereksperimen dengan database. 🚀
